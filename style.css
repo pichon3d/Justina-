@@ -1,0 +1,30 @@
+.carta {
+  background: white;
+  padding: 30px;
+  border-radius: 15px;
+  width: 70%;
+  margin: 30px auto;
+  box-shadow: 0 0 20px rgba(0,0,0,0.2);
+  line-height: 1.8; /* espacio entre líneas */
+  font-size: 18px;
+  text-align: justify; /* texto alineado bonito */
+}
+
+.carta p {
+  margin-bottom: 20px; /* espacio entre párrafos */
+}
+
+.carta strong {
+  color: #d6336c; /* resaltar promesas */
+}
+
+.carta em {
+  font-style: italic;
+  color: #ff6699;
+}
+
+.great-vibes-regular {
+  font-family: "Great Vibes", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
